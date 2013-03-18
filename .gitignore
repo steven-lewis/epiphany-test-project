@@ -6,3 +6,6 @@
 /vendor/
 /bin/
 /composer.phar
+
+app/clover.xml
+
