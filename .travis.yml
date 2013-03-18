@@ -9,6 +9,6 @@ before_script: composer install
 
 script: 
   - phpunit -c app
-  - php coverage_checker.php clover.xml 15
+  - php coverage_checker.php app/clover.xml 15
 
 
