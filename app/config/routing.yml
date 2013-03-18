@@ -1,0 +1,4 @@
+epiphany_test:
+    resource: "@EpiphanyTestBundle/Resources/config/routing.yml"
+    prefix:   /
+
